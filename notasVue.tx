@@ -1,0 +1,4 @@
+props
+eventos
+computeporperties: son reactivos y permiten tener codigo limpio
+dentro de su template
